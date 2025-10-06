@@ -1,3 +1,11 @@
+<h3 align="left">Hello, I'm Harry!</h3>
+
+###
+
+<p align="left">Student Developer currently studying IT<br>Current projects are either personal and university related<br><br>Will add more details here soon!</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seeudev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=seeudev&locale=en&mode=weekly&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -5,7 +13,9 @@
 
 ###
 
-<br clear="both">
+<h3 align="center">Languages & Tools:</h3>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -51,21 +61,13 @@
 
 ###
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
+<h3 align="left">My Socials:</h3>
 
 ###
 
-<img align="left" height="200" src="https://tenor.com/view/koseki-bijou-hololive-pebble-persona-gif-702649474975117304"  />
+<br clear="both">
+
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/146106575?v=4"  />
 
 ###
 
@@ -83,7 +85,9 @@
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<div align="left">
   <a href="https://open.spotify.com/user/harrysmyles4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=harrysmyles4&count=5&unique=true" alt="Spotify recently played"  />
   </a>
