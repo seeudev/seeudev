@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Student Developer currently studying IT<br>Current projects are either personal and university related<br><br>Will add more details here soon!</p>
+<p align="left">Student Developer currently in higher education studying BSIT<br>Current projects are either personal and/or university related<br><br>Will add more details here soon!</p>
 
 ###
 
