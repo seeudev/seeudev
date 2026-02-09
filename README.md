@@ -4,7 +4,7 @@
 
 </div>
 
-<p align="left">Hello I'm Harry,<br>Student Developer currently in higher education studying BSIT<br>Current projects are either personal and/or university related<br><br>Will add more details here soon!</p>
+<p align="left">Hello I'm Harry,<br><br>Will add more details here soon!</p>
 
 ---
 
